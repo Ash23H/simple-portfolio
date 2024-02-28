@@ -17,6 +17,8 @@ Welcome to the Basic Portfolio for Beginners repository! This project is a simpl
 ## Getting Started:
 Clone the Repository: Clone this repository to your local machine using Git.
 
+https://ash23h.github.io/simple-portfolio/
+
 
 
 
